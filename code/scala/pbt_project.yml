@@ -1,0 +1,49 @@
+name: antony.cassin
+description: tangible
+version: 0.0.1
+author: dnnw6olc.ybewjuu0@nnon9lwn.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: antonycassin
+  parentArtefactID: team1734726320806
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-20 20:25:50'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-20 20:25:51'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-20T20:25:51.426671Z'
+  name: plibMaven
+  version: 8.8.0-SNAPSHOT
+  id: '1836083215'
+  createdAt: '2024-12-20T20:25:51.426671Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
